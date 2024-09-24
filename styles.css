@@ -1,0 +1,14 @@
+h1{
+border-image-width: 10%}
+nav{
+  flex-direction: row;
+  border-image-width: 10%;}
+  main{
+   background-color: rgb(242, 187, 215);
+   border-width: 4px;
+  }
+p1{
+flex: content;left: auto;
+border-width: 1p 2em 1.5cm
+}
+
